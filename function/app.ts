@@ -14,3 +14,4 @@ console.log(evenOrOdd(10))
 
 console.log(checkNumber(33))
 
+console.log(checkNumber(35))
